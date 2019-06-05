@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Adds App snapshot testing 1`] = `
+<ErrorBoundary>
+  <div>
+    <Header />
+    <SortingSection />
+    <Card />
+    <Footer />
+  </div>
+</ErrorBoundary>
+`;

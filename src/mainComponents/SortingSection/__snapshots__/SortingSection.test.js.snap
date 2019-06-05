@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests SortingSection container Matching snapshot 1`] = `
+<div
+  className="sorting-section"
+>
+  <p
+    className="movies-found"
+  >
+    N movies found
+  </p>
+  <div
+    className="sort-filters"
+  >
+    <p>
+      Sort by
+    </p>
+    <input
+      className="secondary-filter"
+      defaultChecked={true}
+      id="release"
+      name="sort"
+      type="radio"
+      value="RELEASE"
+    />
+    <label
+      htmlFor="release"
+    >
+      RELEASE
+    </label>
+    <input
+      className="secondary-filter"
+      id="rating"
+      name="sort"
+      type="radio"
+      value="RATING"
+    />
+    <label
+      htmlFor="rating"
+    >
+      RATING
+    </label>
+  </div>
+</div>
+`;

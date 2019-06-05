@@ -1,0 +1,41 @@
+.main-filter {
+    display: none;
+  
+    & + label {
+      background-color: #666;
+      padding: 4px 10px;
+      transition: all .3s ease;
+      margin-left: 20px;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+  
+    &:checked + label {
+      background-color: red;
+      padding: 4px 10px;
+      margin-left: 20px;
+      transition: all .3s ease;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+  }
+  
+  .secondary-filter {
+    display: none;
+  
+    & + label {
+      color: #000;
+      transition: all .2s ease;
+      margin-left: 15px;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+  
+    &:checked + label {
+      color: red;
+      margin-left: 15px;
+      transition: all .2s ease;
+      border-radius: 3px;
+      cursor: pointer;
+    }
+  }

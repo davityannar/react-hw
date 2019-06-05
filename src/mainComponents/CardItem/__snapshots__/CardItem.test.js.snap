@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test CardItem component Matching snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card-image"
+  >
+    <img
+      src="http://test.am"
+    />
+  </div>
+  <div
+    className="card-description"
+  >
+    <p
+      className="card-film-name"
+    >
+      title
+      <span
+        className="card-year"
+      >
+        2018
+      </span>
+    </p>
+    <p
+      className="card-genre"
+    >
+      example
+    </p>
+  </div>
+</div>
+`;

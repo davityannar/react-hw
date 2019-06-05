@@ -1,0 +1,29 @@
+
+.header {
+    display: flex;
+    flex-direction: column;
+    max-width: 1024px;
+    margin: 0 auto;
+  }
+
+.header-image {
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.9), 
+      rgba(0, 0, 0, 0.5)
+    ), url('../../assets/headerBackground.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .netflix {
+    margin: 25px 0;
+    padding-top: 50px;
+    color: #f55263;
+}
+ 
+.find-your-movie {
+  margin: 20px 0;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: bold;
+}

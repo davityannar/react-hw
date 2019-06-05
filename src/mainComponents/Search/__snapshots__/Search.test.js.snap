@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests Search component Matching snapshot 1`] = `
+<form>
+  <div>
+    <input
+      className="inputClass"
+      placeholder="Quentin Tarantino"
+    />
+  </div>
+  <div
+    className="header-filters"
+  >
+    <div
+      className="search-filters"
+    >
+      <p>
+        Search by
+      </p>
+      <input
+        className="filter"
+        defaultChecked={true}
+        id="title"
+        name="search"
+        type="radio"
+        value="TITLE"
+      />
+      <label
+        htmlFor="title"
+      >
+        Title
+      </label>
+      <input
+        className="filter"
+        id="genre"
+        name="search"
+        type="radio"
+        value="GENRE"
+      />
+      <label
+        htmlFor="genre"
+      >
+        Genre
+      </label>
+    </div>
+    <div>
+      <button
+        className="filter1"
+        onClick={[Function]}
+      >
+        search
+      </button>
+    </div>
+  </div>
+</form>
+`;

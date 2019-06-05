@@ -1,0 +1,53 @@
+.film-card-wrapper {
+    display: flex;
+    padding: 50px 20px;
+  
+    .film-card-image {
+      width: 100%;
+      max-width: 220px;
+  
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  
+    .film-card-description {
+      display: flex;
+      flex-direction: column;
+      padding-left: 50px;
+      padding-top: 30px;
+  
+      .film-card-header {
+        color: #f55263;
+        margin: 0;
+        font-size: 36px;
+      }
+  
+      .film-card-genres {
+        margin-bottom: 20px;
+        color: #ccc;
+      }
+  
+      .film-card-characteristics {
+        margin-bottom: 20px;
+  
+        .film-card-year{
+          margin-right: 15px;
+          font-weight: bold;
+        }
+  
+        .film-card-time {
+          font-weight: bold;
+        }
+      }
+  
+      .film-card-text {
+        color: #ccc;
+      }
+    }
+  
+    * {
+      color: #fff;
+    }
+  }

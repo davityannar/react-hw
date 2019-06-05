@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1556007917987" clover="3.2.0">
+  <project timestamp="1556007917987" name="All files">
+    <metrics statements="20" coveredstatements="13" conditionals="6" coveredconditionals="3" methods="16" coveredmethods="10" elements="42" coveredelements="26" complexity="0" loc="20" ncloc="20" packages="8" files="8" classes="8"/>
+    <package name="src">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\App.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.ErrorBoundary">
+      <metrics statements="6" coveredstatements="4" conditionals="4" coveredconditionals="1" methods="3" coveredmethods="2"/>
+      <file name="ErrorBoundary.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\ErrorBoundary\ErrorBoundary.js">
+        <metrics statements="6" coveredstatements="4" conditionals="4" coveredconditionals="1" methods="3" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="20" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mainComponents.Card">
+      <metrics statements="7" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
+      <file name="Card.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\mainComponents\Card\Card.js">
+        <metrics statements="7" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="2"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mainComponents.CardItem">
+      <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <file name="CardItem.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\mainComponents\CardItem\CardItem.js">
+        <metrics statements="1" coveredstatements="1" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="6" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mainComponents.Footer">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Footer.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\mainComponents\Footer\Footer.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mainComponents.Header">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="Header.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\mainComponents\Header\Header.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mainComponents.Search">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+      <file name="Search.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\mainComponents\Search\Search.js">
+        <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="8" count="0" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.mainComponents.SortingSection">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="SortingSection.js" path="C:\Users\Narek_Davityan\Desktop\reactHome-master - Copy (2)\src\mainComponents\SortingSection\SortingSection.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="7" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
